@@ -1,0 +1,18 @@
+body {
+  background-color: #9b6dff;
+}
+.row {
+  justify-content: space-between !important ;
+  padding: 1rem 0 !important;
+}
+
+input {
+  width: 100%;
+}
+
+p {
+  text-align: left;
+}
+
+.filmList {
+}
